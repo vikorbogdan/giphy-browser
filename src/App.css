@@ -1,0 +1,7 @@
+.gifContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px auto;
+  gap: 30px;
+}
