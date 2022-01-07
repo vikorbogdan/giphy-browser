@@ -3,7 +3,7 @@ import "./App.css";
 import { GiphyComp } from "./components/GiphyComp";
 
 function App() {
-  const apiKey = "eW1xzKOuNC9OTTzaSbnhL61n23HMuyOG";
+  const apiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
   const trendingGifs = `https://api.giphy.com/v1/gifs/trending?api_key=${apiKey}&limit=25&rating=g`;
   const [gifRequest, setGifRequest] = useState(trendingGifs);
   const [inputValue, setInputValue] = useState("");
