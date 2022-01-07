@@ -12,7 +12,7 @@ I used the Giphy API for this experiment since it allowed me to browse through a
 🧱 To utilize this project, go through the following steps:
 
 - Install dependencies via `npm install`
-- Set the [API Key]() in `App.js Line 6`
+- Set the [API Key](https://developers.giphy.com/) in `App.js Line 6`
 - Run the project via `npm run`
 
 The Trending Gifs will be featured by default on the main page, but you may also search for a topic to find related gifs.
